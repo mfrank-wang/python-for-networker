@@ -1,5 +1,4 @@
 # pythonfornetworker
-<<<<<<< HEAD
 Repository for practicing python skills as a network engineer!
 
 contents:
@@ -16,7 +15,5 @@ contents:
 	-- yaml
 - web framework
 	-- fastAPI
--- Algorithem
-=======
-Repository for practicing python skills as a network engineer!
->>>>>>> 3ddb81763dc38255f3ca544019d38f4da6d2325d
+- Algorithem
+
