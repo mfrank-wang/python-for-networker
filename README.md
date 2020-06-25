@@ -16,4 +16,3 @@ contents:
 - web framework
 	-- fastAPI
 - Algorithm
-
