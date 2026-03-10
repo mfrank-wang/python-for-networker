@@ -16,3 +16,4 @@ contents:
 - web framework
 	* fastAPI
 - Algorithm
+- Scripts
